@@ -34,7 +34,7 @@ function ShoppingCart() {
         ))
       )}
       <div className="cart-summary">
-        <h3>Total Items: {cart.totalQuantity}</h3>
+        <h3>Tota Items: {cart.totalQuantity}</h3>
         <h3>Total Cost: ${totalCost.toFixed(2)}</h3>
       </div>
       <div className="cart-actions">
