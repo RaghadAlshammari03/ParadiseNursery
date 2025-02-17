@@ -27,7 +27,7 @@ Responsive and user-friendly design
 ## 📦 Installation
 1. Clone the repository:
    
-git clone https://github.com/yourusername/paradise-nursery.git
+git clone https://github.com/yourusername/ParadiseNursery.git
 cd paradise-nursery
 
 2. Install dependencies:
